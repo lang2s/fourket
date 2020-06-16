@@ -51,3 +51,15 @@
 ![login.PNG](WebContent/img/main/login.PNG)
 - 로그인  =>
 로그인, 로그아웃, 회원가입 페이지 모달 형식
+
+------------
+
+![FreeBoard.PNG](WebContent/img/main/FreeBoard.PNG)
+- 자유게시판  =>
+자유게시판
+
+------------
+
+![QnABoard.PNG](WebContent/img/main/QnABoard.PNG)
+- QnA게시판  =>
+QnA게시판
